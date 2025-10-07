@@ -45,5 +45,7 @@
     "scripts": {
         "unit": "phpunit --testsuite unit",
         "integration": "phpunit --testsuite integration"
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
