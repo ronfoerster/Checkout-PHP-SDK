@@ -16,6 +16,7 @@
                     "type": "git",
                     "reference": "v1.0.2" 
                 }
+            }
         }
     ],
     "require": {
