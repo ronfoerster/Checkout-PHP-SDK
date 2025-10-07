@@ -12,7 +12,7 @@
         }
     ],
     "require": {
-        "paypal/paypalhttp": "1.0.2" 
+        "paypal/paypalhttp": "^1.0.2" 
     },
     "authors": [
         {
