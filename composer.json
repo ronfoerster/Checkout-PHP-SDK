@@ -5,8 +5,14 @@
     "type": "library",
     "license": "Apache-2.0",
     "homepage": "http://github.com/paypal/Checkout-PHP-SDK/",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/ronfoerster/paypalhttp_php.git" 
+        }
+    ],
     "require": {
-        "paypal/paypalhttp": "1.0.1"
+        "paypal/paypalhttp": "dev-main" 
     },
     "authors": [
         {
